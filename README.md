@@ -1,5 +1,7 @@
 #git class
+It's to early for 
 something something
-a repo for a class on git & github
+like this class 
+on git & github
+because we feel like 
 duh duh
-and some changes for some bs reasons to create a branch differences
